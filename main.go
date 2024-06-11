@@ -41,5 +41,5 @@ func main() {
 	fmt.Printf("\nMultiplication of %d and %d is %d\n", a, b, multiplication.Multiply(a, b))
 
 	fmt.Printf("\nDivision result:")
-	fmt.Printf("\nDivision of %d and %d is %.d\n", a, b, division.Divide(a, b))
+	fmt.Printf("\nDivision of %d and %d is %d\n", a, b, division.Divide(a, b))
 }
